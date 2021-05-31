@@ -92,3 +92,7 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+.align {
+    text-align: center;
+
+}
